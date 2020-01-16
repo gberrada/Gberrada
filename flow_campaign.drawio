@@ -1,26 +1,22 @@
-<mxfile host="www.draw.io" modified="2020-01-16T22:01:50.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="oUVZ4jkbCmHdQpeNX7BB" version="12.5.4" type="github">
+<mxfile host="www.draw.io" modified="2020-01-16T22:05:12.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="98LwfPj83tECElcumgd7" version="12.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="602" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460.0014285714287" y="851.4285714285713" as="sourcePoint"/>
             <mxPoint x="460.0014285714287" y="901.7142857142858" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="460.57" y="891.71"/>
-              <mxPoint x="460.57" y="891.71"/>
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200.5" y="340" as="sourcePoint"/>
             <mxPoint x="200.5" y="390" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Brief presented to marcom council " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -35,14 +31,10 @@
         <mxCell id="WlS0nSgw3Jyz-_eudb85-1" value="Assigned to a BI Intake, a BI Dev and a Marcom prime" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="121" y="300" width="160" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="201.5" y="250" as="sourcePoint"/>
             <mxPoint x="201.5" y="300" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="202" y="275"/>
-              <mxPoint x="202" y="275"/>
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WlS0nSgw3Jyz-_eudb85-13" value="&lt;div&gt;Marketing plans kickoff call;&lt;/div&gt;&lt;div&gt;To be included : BI Intake, BI Dev, Marcom &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -60,7 +52,7 @@
         <mxCell id="WlS0nSgw3Jyz-_eudb85-18" value="&lt;div&gt;BI Intake to document requirements in the BR document&lt;br&gt;&lt;/div&gt;&lt;div&gt;Collaboration with Marketing Prime&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="122" y="502" width="160" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WlS0nSgw3Jyz-_eudb85-13" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WlS0nSgw3Jyz-_eudb85-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200.43" y="470" as="sourcePoint"/>
             <mxPoint x="201" y="500" as="targetPoint"/>
@@ -78,7 +70,7 @@
         <mxCell id="WlS0nSgw3Jyz-_eudb85-24" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Requirements Approved ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="903" width="100" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-26" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-26" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.8" y="982" as="sourcePoint"/>
             <mxPoint x="459.8" y="1032" as="targetPoint"/>
@@ -132,7 +124,7 @@
         <mxCell id="WlS0nSgw3Jyz-_eudb85-48" value="Timelines Approved?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="1030" width="100" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-49" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-49" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.5" y="1110" as="sourcePoint"/>
             <mxPoint x="459.5" y="1160" as="targetPoint"/>
@@ -144,13 +136,10 @@
         <mxCell id="WlS0nSgw3Jyz-_eudb85-52" value="&lt;div&gt;Submit finalized BR to Stakeholders: Marketing, Marcom, Contact strategy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="1160" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-53" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-53" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1240" as="sourcePoint"/>
             <mxPoint x="459.93023255813955" y="1269.953488372093" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="460" y="1258"/>
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WlS0nSgw3Jyz-_eudb85-54" value="BR Approved" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -168,15 +157,11 @@
         <mxCell id="WlS0nSgw3Jyz-_eudb85-57" value="&lt;div&gt;BR Lock down&lt;br&gt;&lt;/div&gt;&lt;div&gt;FYI email to stakeholders and all stakeholder&#39;s Directors&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="1399" width="120" height="71" as="geometry"/>
         </mxCell>
-        <mxCell id="WlS0nSgw3Jyz-_eudb85-62" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=12;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="WlS0nSgw3Jyz-_eudb85-62" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=12;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.1765" relative="1" as="geometry">
             <mxPoint as="offset"/>
             <mxPoint x="411.11" y="1308.67" as="sourcePoint"/>
             <mxPoint x="350" y="1309" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="390" y="1309"/>
-              <mxPoint x="390" y="1309"/>
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WlS0nSgw3Jyz-_eudb85-68" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WlS0nSgw3Jyz-_eudb85-18" edge="1">
